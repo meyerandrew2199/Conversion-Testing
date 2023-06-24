@@ -26,7 +26,7 @@ Console.WriteLine("Wow your favorite number is " + faveNumber + ", so is mine!")
 
 
 
-/*Here I am practicing using built in methods for mathmatical problems via code acadmey problems */
+/*Here I am practicing using built in methods for mathmatical problems via codecademy problems */
 
 
       // Starting variables 
